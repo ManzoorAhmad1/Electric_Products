@@ -1,8 +1,11 @@
-.NavbarMain {
+.Navbar {
     height: auto;
     width: 100%;
     background-color: rgb(13, 4, 4);
-    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
 }
 
 .NavbarContent {
@@ -13,6 +16,24 @@
 .NavbarContent h2 {
     margin: 0 0 0 2rem;
     color: white;
+}
+
+.button {
+    margin-right: 5rem;
+}
+
+.button button {
+    background-color: aqua;
+    padding: 1rem 2rem;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
+.button button:hover {
+    background-color: blue;
+    color: white;
+    border: 1px solid aqua;
+    border-radius: 5px;
 }
 
 .NavbarList {
