@@ -15,6 +15,7 @@ const ProductsItem = (props) => {
                 <li><a href="/"><ElectricFreezer />ElectricFreezer</a></li>
                 <li><a href="/"><ElectricHeater />ElectricHeater</a></li>
                 <li><a href="/"><ElectricIron />ElectricIron</a></li>
+
             </ul>
         </div>
     )
