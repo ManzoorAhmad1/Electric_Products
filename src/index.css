@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+main {
+  width: auto;
+  height: auto;
+  box-sizing: border-box;
+  border: 1px solid aqua;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+
+.select {
+  padding: 4px 2rem;
+  border: none;
+  font-size: large;
+  background-color: rgb(244, 239, 232);
+}
+
+.select:hover {
+  color: blue;
+  transition: 1s;
+}

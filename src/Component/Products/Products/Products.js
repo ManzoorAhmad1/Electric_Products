@@ -1,7 +1,7 @@
 import React from 'react';
-import ProductsItem from '../ProductsItem/ProductsItem';
-import ProductsDetails from '../ProductsDetail/ProductsDetail';
+import ProductsItem from '../ProductsItem/ProductsItem&Detail/ProductsItem';
 import classes from "./Products.module.css"
+import ProductsItemDetail from '../ProductsItem/ProductsItem&Detail/ProductsItemDetail';
 const Products = (props) => {
     return (
         <div className={classes.products}>
@@ -9,8 +9,7 @@ const Products = (props) => {
                 <ProductsItem />
             </div>
             <div className={classes.ProductsDetails}>
-                <ProductsDetails />
-
+                <ProductsItemDetail />
             </div>
         </div>
     )
