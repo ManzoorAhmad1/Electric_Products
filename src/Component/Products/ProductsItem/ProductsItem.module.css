@@ -1,20 +1,6 @@
-/* .ProductsList {
-    background-color: black;
-} */
-
 .ProductsList li {
     list-style: none;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
+    text-align: start;
 
-}
-
-.ProductsList li a {
-    text-decoration: none;
-    font-size: large;
-    color: black;
-}
-
-.ProductsList li a:hover {
-    transition: 2s;
-    color: blue;
 }
