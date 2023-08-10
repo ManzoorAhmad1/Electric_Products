@@ -24,7 +24,7 @@ main {
 }
 
 .select {
-  padding: 4px 2rem;
+  padding: 4px 4px;
   border: none;
   font-size: large;
   background-color: rgb(244, 239, 232);
@@ -33,4 +33,16 @@ main {
 .select:hover {
   color: blue;
   transition: 1s;
+}
+
+li a {
+  list-style: none;
+  text-decoration: none;
+  color: black;
+}
+
+li a:hover {
+  color: blue;
+  transition: 1s;
+
 }
