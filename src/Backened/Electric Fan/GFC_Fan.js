@@ -1,32 +1,36 @@
-
+import image1 from "../Electric Fan/ElectricFanImages/1.jpg"
+import image6 from "../Electric Fan/ElectricFanImages/6.jpg"
+import image7 from "../Electric Fan/ElectricFanImages/7.jpg"
+import image8 from "../Electric Fan/ElectricFanImages/8.jpg"
+import image9 from "../Electric Fan/ElectricFanImages/9.jpg"
 const GFC_Fan = [
     {
         id: "a1",
-        ImageUrl: "https://www.gfcfans.com/storage/products/medium/327_1654172546.png",
+        ImageUrl: image1,
         title: "GFC Fan",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        ImageUrl: "https://www.gfcfans.com/storage/products/medium/61_1579515234.png",
+        id: "a2",
+        ImageUrl: image6,
         title: "GFC_Fan 2354",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        ImageUrl: "https://www.gfcfans.com/storage/products/medium/43_1579513292.png",
+        id: "a3",
+        ImageUrl: image7,
         title: "ACDC inverter Fan 543",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        ImageUrl: "https://www.gfcfans.com/storage/products/medium/74_1579516798.png",
+        id: "a4",
+        ImageUrl: image8,
         title: "New Modren Inverter 43",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        ImageUrl: "https://www.gfcfans.com/storage/products/medium/175_1584948635.png",
+        id: "a5",
+        ImageUrl: image9,
         title: "Old look ACDC Inverter 002",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },

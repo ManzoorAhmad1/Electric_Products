@@ -1,36 +1,42 @@
+import image1 from "./AsiaCooler_image/1.webp"
+import image2 from "./AsiaCooler_image/2.webp"
+import image3 from "./AsiaCooler_image/3.webp"
+import image4 from "./AsiaCooler_image/4.webp"
+import image5 from "./AsiaCooler_image/5.webp"
+
+
 
 const Asia_Cooler = [
     {
         id: "a1",
-        UrlImage: "https://superasiastore.com/cdn/shop/products/1-ECM-6500-Plus-fast-cool.jpg?v=1671016691&width=360",
+        UrlImage: image1,
         title: "Fast_Cool",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        UrlImage: "https://superasiastore.com/cdn/shop/files/ECM-9000-Plus-invertercopy.jpg?v=1683120509&width=360",
-
+        id: "a2",
+        UrlImage: image2,
         title: "Inverter",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        UrlImage: "https://superasiastore.com/cdn/shop/files/1copy_c628189e-41bd-455f-8842-de088995e037.jpg?v=1689229552&width=540",
+        id: "a3",
+        UrlImage: image3,
 
         title: "Double Inverter",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        UrlImage: "https://superasiastore.com/cdn/shop/files/1copy_c628189e-41bd-455f-8842-de088995e037.jpg?v=1689229552&width=540",
+        id: "a4",
+        UrlImage: image4,
 
         title: "Super Inverter",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
+        id: "a5",
         title: "SuperAsia_Cooler",
-        UrlImage: "https://superasiastore.com/cdn/shop/products/1-ECM-6500-Plus-fast-cool.jpg?v=1671016691&width=360",
+        UrlImage: image5,
 
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
