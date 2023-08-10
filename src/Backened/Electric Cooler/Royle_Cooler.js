@@ -12,28 +12,28 @@ const Royle_Cooler = [
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
+        id: "a2",
         imageUrl: image4,
         title: "GF-7700-AC-Grand",
 
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
+        id: "a3",
         imageUrl: image6,
         title: "GF-5500-AC-Plus",
 
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
+        id: "a4",
         imageUrl: image8,
         title: " GF-500-AC-Plus",
 
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
+        id: "a5",
         imageUrl: image10,
         title: " GF-600-AC-Plus",
 
