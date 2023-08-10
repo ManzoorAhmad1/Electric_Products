@@ -1,32 +1,37 @@
+import image6 from "./ElectricFreezerImage/6.jpg";
+import image7 from "./ElectricFreezerImage/7.jpg";
+import image8 from "./ElectricFreezerImage/8.jpg";
+import image9 from "./ElectricFreezerImage/9.jpg";
+import image10 from "./ElectricFreezerImage/10.jpg";
 
 const Haier_Freezer = [
     {
         id: "a1",
-        ImageUrl: "https://eshop.pel.com.pk/cdn/shop/products/arcticdeepfreezer100single_42f2e657-d20d-4145-8a05-d960dfbe3dab_300x.png?v=1674566392",
+        ImageUrl: image6,
         title: "Freezer",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        ImageUrl: "https://eshop.pel.com.pk/cdn/shop/products/arcticdeepfreezertwindoor_b5ac340d-1048-4354-9d77-a79ea14b5ff1_300x.png?v=1674566170",
+        id: "a2",
+        ImageUrl: image7,
         title: "Freezer 234",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        ImageUrl: "https://eshop.pel.com.pk/cdn/shop/files/Refreg_500x.png?v=1664810198",
+        id: "a3",
+        ImageUrl: image8,
         title: "Automatic Feezer 882",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        ImageUrl: "https://eshop.pel.com.pk/cdn/shop/products/verticalfreezer6d_317efa4b-8642-44f4-b8bd-eabd576d06a7_300x.png?v=1674566277",
+        id: "a4",
+        ImageUrl: image9,
         title: "Double Paler Deep Freezer",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        ImageUrl: "https://eshop.pel.com.pk/cdn/shop/files/water_dispenser_75db551c-02ed-486c-8f43-8903f5fc6ede_500x.png?v=1664534497",
+        id: "a5",
+        ImageUrl: image10,
         title: "Freezer87",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
