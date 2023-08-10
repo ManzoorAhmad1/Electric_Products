@@ -1,32 +1,36 @@
-
+import image2 from "../Electric Fan/ElectricFanImages/2.jpg"
+import image3 from "../Electric Fan/ElectricFanImages/3.jpg"
+import image10 from "../Electric Fan/ElectricFanImages/10.jpg"
+import image11 from "../Electric Fan/ElectricFanImages/11.jpg"
+import image12 from "../Electric Fan/ElectricFanImages/12.jpg"
 const Lahore_Fan = [
     {
         id: "a1",
-        imageUrl: "https://lahorefan.com/wp-content/uploads/2023/02/0006_astro-silver-300x300.png",
+        imageUrl: image2,
         title: "Lahore Inverter Fan 234",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        imageUrl: "https://lahorefan.com/wp-content/uploads/2023/02/0007_ASTRO-N.C-BLACK-300x300.png",
+        id: "a2",
+        imageUrl: image3,
         title: "ACDC Inverter Fan 543",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        imageUrl: "https://lahorefan.com/wp-content/uploads/2023/02/0001_astro-2-baldes-t.wood_-300x300.png",
+        id: "a3",
+        imageUrl: image10,
         title: "Auto Converter 874",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        imageUrl: "https://lahorefan.com/wp-content/uploads/2023/02/0000_astro-2-blades-oak-wood-300x300.png",
+        id: "a4",
+        imageUrl: image11,
         title: "Simple Lahore Fan 234",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
     {
-        id: "a1",
-        imageUrl: "https://lahorefan.com/wp-content/uploads/2023/02/Astro-NC-Golden-1-300x300.png",
+        id: "a5",
+        imageUrl: image12,
         title: "Moderen Lahore Fan 873",
         description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
     },
