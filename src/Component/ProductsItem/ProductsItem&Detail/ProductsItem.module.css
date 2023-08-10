@@ -20,6 +20,13 @@
     background-color: white;
 }
 
+.ProductsList li {
+    list-style: none;
+    padding-bottom: 1rem;
+    text-align: start;
+
+}
+
 @media screen and (max-width: 425px) and (min-width: 375px) {
     .ProductsItem {
         width: 30%;

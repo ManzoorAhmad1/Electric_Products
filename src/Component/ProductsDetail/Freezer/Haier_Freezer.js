@@ -12,7 +12,7 @@ const Haier_Freezer = (props) => {
         <main>
             {data.map((freezer) => {
                 return (
-                    <Card>
+                    <Card key={freezer.id}>
                         <img src={freezer.ImageUrl} alt={freezer.title} />
                         <h1>{freezer.title}</h1>
                         <p>{freezer.description}</p>
