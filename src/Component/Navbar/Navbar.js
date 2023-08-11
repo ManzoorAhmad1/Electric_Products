@@ -13,7 +13,6 @@ const Navbar = (props) => {
             </div>
 
             <div className={classes.button}>
-                <button>AddChart</button>
                 <button onClick={props.onClick}>LoginForm</button>
             </div>
         </div>
