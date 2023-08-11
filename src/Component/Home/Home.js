@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = (props) => {
     return (
-        <div>
+        <div style={{ background: "rgb(62, 58, 58)", padding: "1rem", color: "white" }}>
 
             <div>
                 <h1>Fan History:</h1>
