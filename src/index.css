@@ -13,7 +13,7 @@ code {
 }
 
 main {
-  width: auto;
+  width: 100%;
   height: auto;
   box-sizing: border-box;
   border-radius: 5px;
@@ -27,22 +27,24 @@ main {
   padding: 4px 4px;
   border: none;
   font-size: large;
-  background-color: rgb(244, 239, 232);
+  /* background-color: blue; */
+  color: white;
 }
 
 .select:hover {
-  color: blue;
+  color: white;
   transition: 1s;
 }
 
 li a {
   list-style: none;
   text-decoration: none;
-  color: black;
+  color: aqua;
 }
 
 li a:hover {
-  color: blue;
+  color: white;
   transition: 1s;
 
 }
+

@@ -1,0 +1,9 @@
+.ProductsList li {
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}

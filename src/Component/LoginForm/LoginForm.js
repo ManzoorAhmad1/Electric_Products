@@ -6,7 +6,6 @@ const LoginForm = (props) => {
     const [data, setData] = useState("");
     const formSubmitHandler = (event) => {
         event.preventDefault();
-        props.loginForm(false)
         console.log(data)
     }
     const onchangeUserHandler = (event) => {
@@ -19,11 +18,18 @@ const LoginForm = (props) => {
     return (
         <div className={classes.form} onSubmit={formSubmitHandler}>
             <form onSubmit={props.onSubmit} className={classes.formsItem} >
-                <label>UserName</label>
+                <div>
+                    <h1>Login Form</h1>
+                </div>
+                <div className={classes.loginButton}>
+                    <button className={classes.button} >Sign In</button>
+                    <button className={classes.button} >Sign Out</button>
+                </div>
+                <label>UserName</label >
                 <input type="text" placeholder="Enter your Name" onChange={onchangeUserHandler} />
-                <label>UserPassword</label>
+                <label>UserPassword</label >
                 <input type="password" placeholder="Enter your Password" onChange={onchangePasswordHandler} />
-                <button className={classes.button} >Submit</button>
+                <button className={classes.button} >Login In</button>
             </form>
         </div>
     )

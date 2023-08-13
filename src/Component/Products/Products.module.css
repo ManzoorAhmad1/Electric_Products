@@ -1,0 +1,14 @@
+.products {
+    width: 100%;
+    display: flex;
+}
+
+.ProductsItem {
+    width: 20%;
+    border-right: 1px solid black;
+    background-color: blue;
+}
+
+.ProductsDetails {
+    width: 80%;
+}
