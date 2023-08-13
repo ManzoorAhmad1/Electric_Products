@@ -23,13 +23,13 @@ const LoginForm = (props) => {
                 </div>
                 <div className={classes.loginButton}>
                     <button className={classes.button} >Sign In</button>
-                    <button className={classes.button} >Sign Out</button>
+                    <button className={classes.button} >Sign Up</button>
                 </div>
                 <label>UserName</label >
                 <input type="text" placeholder="Enter your Name" onChange={onchangeUserHandler} />
                 <label>UserPassword</label >
                 <input type="password" placeholder="Enter your Password" onChange={onchangePasswordHandler} />
-                <button className={classes.button} >Login In</button>
+                <button className={classes.button} >Submit</button>
             </form>
         </div>
     )
