@@ -1,6 +1,7 @@
 import React from "react";
 import classes from './Navbar.module.css';
 import { Link } from "react-router-dom";
+
 const Navbar = (props) => {
     return (
         <div className={classes.Navbar}>
@@ -8,13 +9,13 @@ const Navbar = (props) => {
                 <h2>M-A Electronics</h2>
                 <ul className={classes.NavbarList}>
                     <li><Link to="/">home</Link></li>
-                    <li><Link to="about">about</Link></li>
+                    <li><Link to="/products">products</Link></li>
                 </ul>
             </div>
 
-            <div className={classes.button}>
+            {/* <div className={classes.button}>
                 <button onClick={props.onClick}>LoginForm</button>
-            </div>
+            </div> */}
         </div>
 
     )

@@ -1,0 +1,30 @@
+.products {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.ProductsItem {
+    width: 20%;
+    height: 60rem;
+    border: 1px solid black;
+    box-shadow: 0px 2px 4px white;
+    /* background-color: blue; */
+}
+
+.ProductsDetails {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ProductsList li {
+    list-style: none;
+}
+
+h1,
+p {
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
