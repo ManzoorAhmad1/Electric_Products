@@ -9,31 +9,31 @@ const Haier_Freezer = [
         id: "a1",
         ImageUrl: image6,
         title: "Freezer",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a2",
         ImageUrl: image7,
         title: "Freezer 234",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a3",
         ImageUrl: image8,
         title: "Automatic Feezer 882",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a4",
         ImageUrl: image9,
         title: "Double Paler Deep Freezer",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a5",
         ImageUrl: image10,
         title: "Freezer87",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
 ]
 export default Haier_Freezer;

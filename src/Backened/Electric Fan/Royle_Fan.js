@@ -8,31 +8,31 @@ const Royle_Fan = [
         id: "a1",
         imageUrl: image4,
         title: "ACDC Ceiling Fans - MOTIF",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a2",
         imageUrl: image5,
         title: "Ceiling Fans - MOTIF",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a3",
         imageUrl:image13,
         title: "Ceiling Fans",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a4",
         imageUrl: image14,
         title: "ACDC Ceiling Fans - MOTIF",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a5",
         imageUrl:image15,
         title: "ACDC Converter Fans - MOTIF",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
 ]
 export default Royle_Fan;

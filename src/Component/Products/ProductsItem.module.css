@@ -1,3 +1,8 @@
+.ProductsList {
+    margin: 0;
+    padding: 0;
+}
+
 .ProductsList li {
     list-style: none;
 }
@@ -6,4 +11,10 @@ h1 {
     text-align: center;
     color: white;
     font-size: x-large;
+}
+@media  screen and (min-width:375px) {
+    .ProductsList{
+        margin:0;
+        padding:0 0 0 1rem;
+    }
 }
