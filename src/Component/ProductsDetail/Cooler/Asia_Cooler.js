@@ -21,6 +21,7 @@ const AsiaCooler = (props) => {
                             <Card className={classes.card} key={cooler.id}>
                                 <img src={cooler.UrlImage} alt={cooler.title} />
                                 <h1> {cooler.title}</h1>
+                                <p className={classes.price}>{cooler.price}</p>
                                 <p>{cooler.description}</p>
                             </Card>
                         )

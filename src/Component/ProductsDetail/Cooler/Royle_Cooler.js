@@ -21,8 +21,9 @@ const RoyleCooler = (props) => {
                     {data.map((cooler) => {
                         return (
                             <Card key={cooler.id}>
-                                <img src={cooler.imageUrl} alt={cooler.title} />
+                                <img src={cooler.UrlImage} alt={cooler.title} />
                                 <h1> {cooler.title}</h1>
+                                <p className={classes.price}>{cooler.price}</p>
                                 <p>{cooler.description}</p>
                             </Card>
                         )
