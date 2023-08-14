@@ -1,0 +1,37 @@
+[
+    {
+        "id": "a1",
+        "UrlImage": "https://www.gfcfans.com/storage/products/medium/323_1648542254.jpg",
+        "title": "Fast_Cool",
+        "price":"Rs 2321",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque."
+    },
+    {
+        "id": "a2",
+        "UrlImage": "https://www.gfcfans.com/storage/products/medium/324_1648542676.jpg",
+        "title": "Inverter",
+        "price":"Rs 2300",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque"
+    },
+    {
+        "id": "a3",
+        "UrlImage": "https://www.gfcfans.com/storage/products/medium/248_1623931875.jpg",
+        "title": "Double Inverter",
+        "price":"Rs 3000",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque"
+    },
+    {
+        "id": "a4",
+        "UrlImage": "https://www.gfcfans.com/storage/products/medium/325_1648542988.jpg",
+        "title": "Super Inverter",
+        "price":"Rs 2000",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
+    },
+    {
+        "id": "a5",
+        "UrlImage": "https://www.gfcfans.com/storage/products/medium/326_1648543125.jpg",
+        "title": "SuperAsia Cooler",
+        "price":"Rs 4500",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
+    }
+]

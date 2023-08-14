@@ -50,14 +50,14 @@ const LoginForm = (props) => {
                     <button className={classes.button}>Sign In</button>
                     <button className={classes.button}>Sign Up</button>
                 </div>
-                {userNameValidation ? <label>userName</label> : <h3>Enter a valid userName</h3>}
+                {userNameValidation ? <label>userName</label> : <h4>Enter a valid userName</h4>}
                 <input
                     type="text"
                     placeholder="Enter your Name"
                     value={userName}
                     onChange={onchangeUserHandler}
                 />
-                {userPasswordValidation ? <label>userPassword</label> : <h3>Enter a valid userPassword</h3>}
+                {userPasswordValidation ? <label>userPassword</label> : <h4>Enter a valid userPassword</h4>}
                 <input
                     type="password"
                     placeholder="Enter your Password"
