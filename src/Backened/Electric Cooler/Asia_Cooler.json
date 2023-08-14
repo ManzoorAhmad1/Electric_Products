@@ -1,0 +1,37 @@
+[
+    {
+        "id": "a1",
+        "UrlImage": "https://www.aysonline.pk/wp-content/uploads/2021/12/SA710-250x250.jpg",
+        "title": "Fast_Cool",
+        "price":"Rs 3000",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque."
+    },
+    {
+        "id": "a2",
+        "UrlImage": "https://www.aysonline.pk/wp-content/uploads/2022/01/SA272-WASH-CRYSTAL-250x250.jpg",
+        "title": "Inverter",
+        "price":"Rs 3500",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque"
+    },
+    {
+        "id": "a3",
+        "UrlImage": "https://www.aysonline.pk/wp-content/uploads/2022/01/6096-250x250.jpg",
+        "title": "Double Inverter",
+        "price":"Rs 4500",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque"
+    },
+    {
+        "id": "a4",
+        "UrlImage": "https://www.aysonline.pk/wp-content/uploads/2022/01/SA6102-250x250.jpg",
+        "title": "Super Inverter",
+        "price":"Rs 4321",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
+    },
+    {
+        "id": "a5",
+        "UrlImage": "https://www.aysonline.pk/wp-content/uploads/2022/01/6086-250x250.jpg",
+        "title": "SuperAsia Cooler",
+        "price":"Rs 5000",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
+    }
+]
