@@ -38,6 +38,18 @@ li a {
   color: aqua;
 }
 
+a {
+  list-style: none;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: white;
+  transition: 1s;
+
+}
+
 li a:hover {
   color: white;
   transition: 1s;
@@ -45,5 +57,9 @@ li a:hover {
 }
 
 h4 {
-  color: red;
+  margin: 2rem 6rem;
+  color: white;
+  padding: 2rem;
+  font-size: large;
+  line-height:2rem;
 }
