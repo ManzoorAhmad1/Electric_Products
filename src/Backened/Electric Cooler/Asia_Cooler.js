@@ -11,34 +11,34 @@ const Asia_Cooler = [
         id: "a1",
         UrlImage: image1,
         title: "Fast_Cool",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque."
     },
     {
         id: "a2",
         UrlImage: image2,
         title: "Inverter",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque"
     },
     {
         id: "a3",
         UrlImage: image3,
 
         title: "Double Inverter",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque"
     },
     {
         id: "a4",
         UrlImage: image4,
 
         title: "Super Inverter",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a5",
         title: "SuperAsia_Cooler",
         UrlImage: image5,
 
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
 ]
 export default Asia_Cooler;

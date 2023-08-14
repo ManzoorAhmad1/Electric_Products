@@ -8,31 +8,31 @@ const GFC_Fan = [
         id: "a1",
         ImageUrl: image1,
         title: "GFC Fan",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a2",
         ImageUrl: image6,
         title: "GFC_Fan 2354",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a3",
         ImageUrl: image7,
         title: "ACDC inverter Fan 543",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a4",
         ImageUrl: image8,
         title: "New Modren Inverter 43",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a5",
         ImageUrl: image9,
         title: "Old look ACDC Inverter 002",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
 ]
 export default GFC_Fan;

@@ -8,6 +8,7 @@ const Products = (props) => {
                 <ProductsItem />
             </div>
             <div className={classes.ProductsDetails}>
+
             </div>
 
         </div>

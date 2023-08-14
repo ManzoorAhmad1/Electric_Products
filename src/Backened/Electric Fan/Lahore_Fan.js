@@ -8,31 +8,31 @@ const Lahore_Fan = [
         id: "a1",
         imageUrl: image2,
         title: "Lahore Inverter Fan 234",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a2",
         imageUrl: image3,
         title: "ACDC Inverter Fan 543",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a3",
         imageUrl: image10,
         title: "Auto Converter 874",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a4",
         imageUrl: image11,
         title: "Simple Lahore Fan 234",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
     {
         id: "a5",
         imageUrl: image12,
         title: "Moderen Lahore Fan 873",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eos deserunt doloremque, eum perferendis natus harum velit sit, earum ullam architecto deleniti quis."
+        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit..."
     },
 
 ]

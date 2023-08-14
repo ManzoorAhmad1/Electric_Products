@@ -1,23 +1,29 @@
 .formsItem {
-    height: auto;
+    height: 100%;
     width: 100%;
     box-sizing: border-box;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    color: white;
+}
+Form{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: white;
 }
 
 label {
-    margin: 1rem 0;
+    margin: 10px 0;
     font-size: 2rem;
 }
 
 input {
     padding: 1rem 1rem;
     font-size: x-large;
-    margin: 1rem 1rem;
+    margin: 10px 1rem;
     outline-style: none;
     border: 1px solid blue;
     border-radius: 8px;
@@ -31,7 +37,7 @@ input {
     border-radius: 5px;
     font-size: 20px;
     box-shadow: 2px 2px 5px white;
-    margin: 2rem 2rem;
+    margin: 10px 2rem;
 }
 
 .button:hover {

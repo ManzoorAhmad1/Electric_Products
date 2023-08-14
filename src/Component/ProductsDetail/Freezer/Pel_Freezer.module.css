@@ -9,7 +9,6 @@
     height: 60rem;
     border: 1px solid black;
     box-shadow: 0px 2px 4px white;
-    /* background-color: blue; */
 }
 
 .ProductsDetails {
@@ -20,9 +19,40 @@
     list-style: none;
 }
 
+@media screen and (min-width:1440px) {
+    .ProductsItem {
+        width: 10%;
+    }
+}
+
 h1,
 p {
     text-align: center;
     color: white;
     font-size: x-large;
+}
+
+@media screen and (min-width:375px) {
+    .ProductsList {
+        margin: 0;
+        padding: 0 0 0 1rem;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .ProductsItem {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .ProductsItem {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .ProductsItem {
+        width: 40%;
+    }
 }

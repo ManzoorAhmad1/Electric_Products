@@ -26,3 +26,33 @@ p {
     color: white;
     font-size: x-large;
 }
+@media screen and (min-width:375px) {
+    .ProductsList {
+        margin: 0;
+        padding: 0 0 0 1rem;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .ProductsItem {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .ProductsItem {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .ProductsItem {
+        width: 40%;
+    }
+}
+
+@media screen and (min-width:1440px) {
+    .ProductsItem {
+        width: 10%;
+    }
+}

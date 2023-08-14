@@ -13,14 +13,10 @@ code {
 }
 
 main {
-  width: 100%;
-  height: auto;
-  box-sizing: border-box;
-  border-radius: 5px;
+
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  padding: 1rem;
 }
 
 .select {

@@ -18,7 +18,7 @@ const AsiaCooler = (props) => {
                 <main>
                     {data.map((cooler) => {
                         return (
-                            <Card key={cooler.id}>
+                            <Card className={classes.card} key={cooler.id}>
                                 <img src={cooler.UrlImage} alt={cooler.title} />
                                 <h1> {cooler.title}</h1>
                                 <p>{cooler.description}</p>
