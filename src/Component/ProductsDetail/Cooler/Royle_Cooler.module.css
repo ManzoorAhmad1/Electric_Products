@@ -20,11 +20,17 @@
     list-style: none;
 }
 
-h1,
-p {
+h1 {
     text-align: center;
     color: white;
     font-size: x-large;
+}
+
+.price {
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
 }
 
 @media screen and (min-width:375px) {
