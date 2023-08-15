@@ -25,6 +25,9 @@ const RoyleCooler = (props) => {
                                 <h1> {cooler.title}</h1>
                                 <p className={classes.price}>{cooler.price}</p>
                                 <p>{cooler.description}</p>
+                                <div className={classes.button}>
+                                    <button>AddChart</button>
+                                </div>
                             </Card>
                         )
                     })}
