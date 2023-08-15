@@ -38,26 +38,86 @@
     transition: 1s;
 }
 
-@media screen and (max-width:425px) {
-    .ProductsItem {
-        width: 40%;
-    }
-}
 
-@media screen and (max-width:375px) {
-    .ProductsItem {
-        width: 50%;
-    }
-}
+
 
 @media screen and (max-width:320px) {
     .ProductsItem {
         width: 40%;
     }
+
+    .ProductsDetails h1 {
+        width: 100%;
+        margin: 0 60px;
+        text-align: center;
+    }
+
+    .ProductsDetails h4 {
+        width: 100%;
+        margin: 0 2rem;
+        text-align: center;
+        font-size: 14px;
+        line-height: normal;
+    }
+
+    .button {
+        width: 100%;
+        margin: 0 60px;
+    }
 }
 
-@media screen and (min-width:1440px) {
+@media screen and (min-width:321px) and (max-width:375px) {
     .ProductsItem {
-        width: 10%;
+        width: 50%;
+    }
+
+    .ProductsDetails h4 {
+        width: 100%;
+        margin: 0;
+        font-size: small;
+        line-height: 20px;
+    }
+}
+
+
+@media screen and (min-width:376px) and (max-width:425px) {
+    .ProductsItem {
+        width: 28%;
+    }
+
+    .ProductsDetails h1 {
+        width: 70%;
+        margin: 25px 0 0 10px;
+        text-align: center;
+        overflow: hidden;
+    }
+
+    .ProductsDetails h4 {
+        width: 70%;
+        margin: 0 0 2rem 20px;
+        padding: 0;
+        overflow: hidden;
+        font-size: small;
+        line-height: 20px;
+    }
+}
+
+@media screen and (min-width:426px) and (max-width:768px) {
+    .ProductsItem {
+        width: 15%;
+    }
+
+    .ProductsDetails h1 {
+        width: 80%;
+        box-sizing: border-box;
+        margin: 25px 5px 0 5px;
+        text-align: center;
+    }
+
+    .ProductsDetails h4 {
+        width: 80%;
+        margin: 0 0 0 2px;
+        font-size: small;
+        line-height: 25px;
     }
 }
